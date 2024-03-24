@@ -72,7 +72,7 @@ console.log('The saying \'Seeing is Believing\' isn\'t correct in 2020')
 console.log(`The sum of 2 and 3 is 5`)              // statically writing the data
 let a = 2
 let b = 3
-console.log(`The sum of ${a} and ${b} is ${a + b}`) // injecting the data dynamically
+console.log(`The sum of ${a} and ${b} is ${a + b} by injecting the data dynamically`) // injecting the data dynamically
 
 let language = 'JavaScript'
 let job = 'teacher'
